@@ -41,10 +41,10 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramananda-kairi&show_icons=true&locale=en&layout=compact" alt="ramananda-kairi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rama-kairi&show_icons=true&locale=en&layout=compact" alt="rama-kairi" /></p>
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramananda-kairi&show_icons=true&locale=en" alt="ramananda-kairi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rama-kairi&show_icons=true&locale=en" alt="rama-kairi" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramananda-kairi&" alt="ramananda-kairi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rama-kairi&" alt="rama-kairi" /></p>
