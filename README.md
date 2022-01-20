@@ -18,6 +18,8 @@
 - ⚡ Fun fact **When I started Programming a long time back I have a mindset that Java and Javascript are same.**
 
 <br>
+[Scan My CV](https://github.com/rama-kairi/rama-kairi/raw/main/resume_rama.pdf) 👀📜
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
