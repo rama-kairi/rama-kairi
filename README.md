@@ -5,20 +5,20 @@
 
 - 🔭 I’m currently working on [Simply Jet](https://www.simply-jet.ch/en/)
 
-- 🌱 I’m currently learning **Fiber, Rust**
+- 🌱 I’m currently learning **Rust, Remix (JS), Solidity, Terraform, Web 3, NFT, …**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ramananda-kairi?tab=repositories](https://github.com/ramananda-kairi?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/rama-kairi?tab=repositories](https://github.com/ramananda-kairi?tab=repositories)
 
 - 💬 Ask me about **Python, Django, FastApi, SqlAlchamy**
 
 - 📫 How to reach me **ramanandakairi@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ramananda-kairi-7406344a/](https://www.linkedin.com/in/ramananda-kairi-7406344a/)
+- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/~rama)
 
 - ⚡ Fun fact **When I started Programming a long time back I have a mindset that Java and Javascript are same.**
 
 <br>
- 
+
 <a href="https://github.com/rama-kairi/rama-kairi/raw/main/resume_rama.pdf">Scan My CV -> 👀📜<a>
 <br>
 
