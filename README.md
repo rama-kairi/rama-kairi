@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rama-kairi?tab=repositories](https://github.com/ramananda-kairi?tab=repositories)
 
-- 💬 Ask me about **Python, Django, FastApi, SqlAlchamy**
+- 💬 Ask me about **Python, Django, FastApi, GoLang**
 
 - 📫 How to reach me **ramanandakairi@gmail.com**
 
