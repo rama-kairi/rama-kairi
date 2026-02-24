@@ -120,9 +120,6 @@ AREAS_OF_EXPERTISE = [
   <img src="https://streak-stats.demolab.com/?user=rama-kairi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rama-kairi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rama-kairi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
