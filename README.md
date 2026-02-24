@@ -153,7 +153,7 @@ AREAS_OF_EXPERTISE = [
 
 ## 📫 Connect
 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/rama-kairi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -170,6 +170,6 @@ AREAS_OF_EXPERTISE = [
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=rama-kairi&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
