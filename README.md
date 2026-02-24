@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **Hey there, I'm Rama!**
 
@@ -115,7 +115,7 @@ AREAS_OF_EXPERTISE = [
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com/?user=rama-kairi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
